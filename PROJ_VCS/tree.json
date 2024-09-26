@@ -1,0 +1,52 @@
+{
+    "hash": "#",
+    "name": "PROJ_VCS",
+    "parent": [
+        {
+            "hash": "#",
+            "name": ".vscode",
+            "parent": [
+                {
+                    "hash": "#",
+                    "name": "settings.json",
+                    "tag": [],
+                    "type": "file"
+                },
+                {
+                    "hash": "#",
+                    "name": "tasks.json",
+                    "tag": [],
+                    "type": "file"
+                }
+            ],
+            "tag": [],
+            "type": "directory"
+        },
+        {
+            "hash": "#",
+            "name": "json.hpp",
+            "tag": [],
+            "type": "file"
+        },
+        {
+            "hash": "#",
+            "name": "main.cpp",
+            "tag": [],
+            "type": "file"
+        },
+        {
+            "hash": "#",
+            "name": "map_folder_to_json.exe",
+            "tag": [],
+            "type": "file"
+        },
+        {
+            "hash": "#",
+            "name": "tree.json",
+            "tag": [],
+            "type": "file"
+        }
+    ],
+    "tag": [],
+    "type": "directory"
+}
